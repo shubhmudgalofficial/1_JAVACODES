@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class pattern1 {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter n");
